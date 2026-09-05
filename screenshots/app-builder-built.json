@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "VAULTBREAKER",
+      "hasCanvas": true,
+      "bodyTextLen": 241,
+      "bodyTextHash": "124295a1608f28cabc093b87214965b7aeae3bd343df99e9de4f55c81dc00fb7",
+      "bodyTextPrefix": "A 16-BIT BOOMER SHOOTER VAULTBREAKER Smash the cursed reliquary.",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "VAULTBREAKER",
+      "hasCanvas": true,
+      "bodyTextLen": 241,
+      "bodyTextHash": "124295a1608f28cabc093b87214965b7aeae3bd343df99e9de4f55c81dc00fb7",
+      "bodyTextPrefix": "A 16-BIT BOOMER SHOOTER VAULTBREAKER Smash the cursed reliquary.",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
